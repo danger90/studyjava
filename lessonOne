@@ -1,0 +1,12 @@
+package homeWork9;
+
+class lessonOne {
+
+  public static void main(String[] args) {
+    Items Toster = new Items("Тостер", 1, "Чорний супер тостер");
+    Items Chajnik = new Items("Чайник", 1, "Белый мега чайник");
+      System.out.println(Toster);
+      System.out.println(Chajnik);
+  }
+
+}
